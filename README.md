@@ -1,8 +1,6 @@
 # Code Notebook Pro
 
-Code Notebook Pro is an interactive, browser-based coding environment that allows users to write, run, and save HTML, CSS, and JavaScript code snippets in real-time. It's designed to be a modern, feature-rich tool for both learning and rapid prototyping.
-
-![Code Notebook Pro Screenshot](https://placeholder.com/your-screenshot-url-here)
+Code Notebook Pro is an interactive, browser-based coding environment that allows users to write, run, and save HTML, CSS, and JavaScript code snippets in real time. It's designed to be a modern, feature-rich tool for both learning and rapid prototyping.
 
 ## Features
 
@@ -25,7 +23,7 @@ Code Notebook Pro is an interactive, browser-based coding environment that allow
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/code-notebook-pro.git
+   git clone https://github.com/seershan/code-notebook-pro.git
    ```
 
 2. Navigate to the project directory:
